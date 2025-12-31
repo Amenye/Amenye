@@ -26,7 +26,7 @@ I enjoy building projects that help me grow my technical skills, and I'm current
 ### 🐍 Python
 | Project | Description | Link |
 |--------|-------------|------|
-|Weather-Data-Fetcher-Reporter-API-Analysis | A Python-based ETL pipeline that interfaces with the OpenWeatherMap API to fetch, transform, and archive real-time weather data for trend analysis. | [https://github.com/Amenye/Weather-Data-Fetcher-Reporter-API-Analysis-](URL) |
+|Weather-Data-Fetcher-Reporter-API-Analysis | A Python-based ETL pipeline that interfaces with the OpenWeatherMap API to fetch, transform, and archive real-time weather data for trend analysis. | https://github.com/Amenye/Weather-Data-Fetcher-Reporter-API-Analysis- |
 
 
 
