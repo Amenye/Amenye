@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Amenye 👋
 
-<!--
-**Amenye/Amenye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **BCom Statistics & Data Science student** at the University of Pretoria with a strong interest in **Data Science** and a long-term goal of becoming a **Machine Learning Engineer**.
 
-Here are some ideas to get you started:
+I enjoy building projects that help me grow my technical skills, and I'm currently expanding my portfolio across different languages and tools. This README serves as a structured guide to my work, categorized by technology for easy navigation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Skills & Technologies
+
+- **Languages:** Python, R, C++, SQL  
+- **Tools & Technologies:** Git & GitHub (Version Control), Jupyter Notebook
+- **Fields of Interest:** Data Science, Machine Learning, Data Analysis, Statistical Modelling
+
+---
+
+### 🔗 Find me online
+
+- **LinkedIn:** https://www.linkedin.com/in/amenye-sinkala-4a883930a/  
+- **GitHub Projects Below ↓**
+
+---
+
+## 📂 Projects by Technology
+
+### 🐍 Python
+| Project | Description | Link |
+|--------|-------------|------|
+|Weather-Data-Fetcher-Reporter-API-Analysis | A Python-based ETL pipeline that interfaces with the OpenWeatherMap API to fetch, transform, and archive real-time weather data for trend analysis. | [https://github.com/Amenye/Weather-Data-Fetcher-Reporter-API-Analysis-](URL) |
+
+
+
+---
+
+### 🚀 Future Goals
+
+- Build more machine learning-focused projects  
+- Explore deep learning frameworks  
+- Continue developing a strong data science project portfolio  
+
+---
+
+> Feel free to explore my repositories & connect with me on LinkedIn!
+
