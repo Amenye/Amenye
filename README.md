@@ -8,7 +8,7 @@ I enjoy building projects that help me grow my technical skills, and I'm current
 
 ### 🧠 Skills & Technologies
 
-- **Languages:** Python, R, C++, SQL  
+- **Languages:** Python, R, SQL  
 - **Tools & Technologies:** Git & GitHub (Version Control), Jupyter Notebook
 - **Fields of Interest:** Data Science, Machine Learning, Data Analysis, Statistical Modelling
 
