@@ -28,7 +28,7 @@ I enjoy building projects that help me grow my technical skills, and I'm current
 |--------|-------------|------|
 |Weather-Data-Fetcher-Reporter-API-Analysis | A Python-based ETL pipeline that interfaces with the OpenWeatherMap API to fetch, transform, and archive real-time weather data for trend analysis. | https://github.com/Amenye/Weather-Data-Fetcher-Reporter-API-Analysis- |
 |Sales-Data-Cleaner-and-Report-Generator|A Python system that reconstructs corrupted transaction logs using logical imputation. It restores missing financial data via mathematical relationships, recovers missing categorical data using reference mapping, and validates integrity before generating business KPIs.|https://github.com/Amenye/Sales-Data-Cleaner-and-Report-Generator|
-
+|NewsFlow: Automated ETL Pipeline & Trend Monitor|NewsFlow is an automated, self-healing ETL pipeline that scrapes and stores tech news daily using GitHub Actions and SQLite, ensuring zero-touch data collection and integrity.|https://github.com/Amenye/news-flow|
 
 ---
 
